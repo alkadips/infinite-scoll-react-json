@@ -1,0 +1,21 @@
+.image-container {
+    padding: 6px;
+    margin: 17px;
+    border-radius: 13px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.image img {
+    max-width: 250px;
+    border-radius: 13px;
+}
+.image-wrapper{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.image-details{
+    width: 20%;
+}
